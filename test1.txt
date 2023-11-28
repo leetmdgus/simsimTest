@@ -1,2 +1,5 @@
 test file
+<<<<<<< HEAD
 testfile
+=======
+>>>>>>> f8340a8ead5f6f044652cb5d5009484bc6b0e4fa
